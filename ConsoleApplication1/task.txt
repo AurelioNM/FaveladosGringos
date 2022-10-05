@@ -1,0 +1,12 @@
+->Uma class Model
+    - Atributos, e PODE ter métodos  
+
+->Uma class Service que manipula o seu Model ou executa uma regra de negócio qualquer   
+
+->Class Storage
+    - Instanciada no main
+    - Terá um ou mais atributos para guardar algo
+        .A propriedade será um dicionario/mapa, que vai conter 
+        .Vão inserir algumas instancias de seu Model nela
+        .Chave vai ser o ID das instancias
+        .Valor vai ser as instancias
